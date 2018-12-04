@@ -19,7 +19,7 @@ Marking a Uncompleted Todo to Completed
 
 
 # How to run:
-1). Move to the directory which contains "Todo.py" module.  
+1). Move to the directory which contains "ToDo.py" module.(Todo/Todos/CLI/ToDo.py)  
 2). Open console/command prompt from that path  
 3). Write command as follows:  
   Example:  
