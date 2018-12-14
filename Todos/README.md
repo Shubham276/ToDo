@@ -1,5 +1,8 @@
 ToDo Requirements:
 
+Note: Problems for Windows Users
+Change path in Todo.py file Line 4 as according to your path.
+
 List of Libraries Imported:   
 1).Argparse statement: import argparse  
 2).Pandas statement: import pandas as pd  
